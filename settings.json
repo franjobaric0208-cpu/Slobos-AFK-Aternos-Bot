@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip":  Ivanobari.aternos.me",
+    "ip":  "Ivanobari.aternos.me",
     "port": 54092,
     "version": "",
     "try-creative": false
